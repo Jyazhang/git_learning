@@ -58,3 +58,4 @@ load_module=headerfilter
 accept_types=image/jpeg
 
 add a word
+add nonfastforward
